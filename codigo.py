@@ -1,4 +1,4 @@
-nombre="Ricardo Ernesto"
+nombre="Beltra"
 apellido="Martinez"
 
 print(nombre+" "+apellido)
